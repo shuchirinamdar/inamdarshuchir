@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shuchir Inamdar</title>
+<meta name="description" content="">
+<meta name="author" content="">
+
+<!-- Favicons
+___________________________________________________________________________ -->
+<!-- <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="72x72"
+	href="img/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="114x114"
+	href="img/apple-touch-icon-114x114.png">
+ -->
+
+<!-- Bootstrap -->
+<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css"
+	href="fonts/font-awesome/css/font-awesome.css">
+
+<!-- Style sheet
+___________________________________________________________________________ -->
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<link rel="stylesheet" type="text/css" href="css/prettyPhoto.css">
+<link href='http://fonts.googleapis.com/css?family=Lato:400,700,900,300'
+	rel='stylesheet' type='text/css'>
+<link
+	href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,800,600,300'
+	rel='stylesheet' type='text/css'>
+<script type="text/javascript" src="js/modernizr.custom.js"></script>
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
+	<!-- Header -->
+	<header id="header">
+		<div class="intro">
+			<div class="container">
+				<div class="row">
+					<div class="intro-text">
+						<p>Full Stack Developer</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</header>
+
+
+	<!-- Navigation -->
+	<div id="nav">
+		<nav class="navbar navbar-custom">
+			<div class="container">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse"
+						data-target=".navbar-main-collapse">
+						<i class="fa fa-bars"></i>
+					</button>
+					<a class="navbar-brand page-scroll" href="#page-top">Shuchir
+						Inamdar</a>
+				</div>
+
+				<!-- Collect the nav links, forms, and other content for toggling -->
+				<div
+					class="collapse navbar-collapse navbar-right navbar-main-collapse">
+					<ul class="nav navbar-nav">
+						<li class="hidden"><a href="#page-top"></a></li>
+						<li><a class="page-scroll" href="#about">About Me</a></li>
+						<li><a class="page-scroll" href="#skills">Technical
+								Skills</a></li>
+						<li><a class="page-scroll" href="#portfolio">Portfolio</a></li>
+						<li><a class="page-scroll" href="#resume">Resume</a></li>
+						<li><a class="page-scroll" href="#contact">Contact</a></li>
+					</ul>
+				</div>
+			</div>
+		</nav>
+	</div>
+
+	<!-- About -->
+	<div id="about">
+		<div class="container">
+			<div class="section-title text-center center">
+				<h2>About Me</h2>
+				<hr>
+			</div>
+			<div class="row">
+				<div class="col-md-12 text-center">
+					<img src="img/about-dp.jpg" class="img-responsive">
+				</div>
+				<div class="col-md-8 col-md-offset-2">
+					<div class="about-text">
+						<p>I am a graduate student from India pursuing masters in
+							Computer Software Engineering at Arizona State University and
+							will be graduating in May 2018.</p>
+
+						<p>While I possess a comprehensive background as a full stack
+							developer, particularly with the cross-platform web presence, I
+							have also built web services, and Business Intelligence packages.
+							With a work experience of over three years at India's largest IT
+							service company: Tata Consultancy Services Ltd. (TCS), I have
+							shouldered the responsibilities of an Application Architect as
+							well. I hold a Green Belt Certification in Lean Six Sigma for
+							Process Improvement (PI), knowledge of Big-Data and Hadoop
+							ecosystem, and I am proficient in building ETL and Reporting
+							services. I am experienced in working with small and large teams
+							following agile software development lifecycle, thus I realize
+							the importance of ensuring quick and continuous product delivery.</p>
+
+						<p class="text-center">
+							<a class="btn btn-primary"
+								href="content/Resume(Shuchir_Inamdar).pdf" target="_blank"><i
+								class="fa fa-download"></i> Download Resume</a>
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- Education -->
+	<div id="education" class="text-center">
+		<div class="container">
+			<div class="section-title center">
+				<h2>Education</h2>
+				<hr>
+			</div>
+			<div class="row">
+				<div class="col-lg-12">
+					<ul class="timeline">
+						<li class="timeline-inverted">
+							<div class="timeline-image">
+								<h4>
+									AUG 2016 <br> - <br> MAY 2018
+								</h4>
+							</div>
+							<div class="timeline-panel">
+								<div class="timeline-heading">
+									<h4>Arizona State University, Tempe, AZ</h4>
+									<h4 class="subheadingEducation">Masters in Computer
+										Software Engineering.</h4>
+									<h4>Graduate Coursework</h4>
+								</div>
+								<div class="timeline-body">
+									<p>
+										Advanced Data Structures and Algorithms <br> Semantic Web
+										<br>Software Enterprise
+									</p>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="timeline-image">
+								<h4>
+									SEP 2008 <br> - <br> JUN 2012
+								</h4>
+							</div>
+							<div class="timeline-panel">
+								<div class="timeline-heading">
+									<h4>Visvesvaraya Technological University, Karnataka,
+										India</h4>
+									<h4 class="subheadingEducation">Bachelors in Computer
+										Science and Engineering</h4>
+									<h4>Undergraduate Coursework</h4>
+								</div>
+								<div class="timeline-body">
+									<p class="text-muted">
+										Database Management System <br> Object-Oriented
+										Programming <br> Data Structures <br> Computer
+										Architecture <br> Compiler Design <br> Operating
+										System <br> Computer Networks
+									</p>
+								</div>
+							</div>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- Resume Section -->
+	<div id="resume" class="text-center">
+		<div class="container">
+			<div class="section-title center">
+				<h2>Work Experience</h2>
+				<hr>
+			</div>
+			<div class="row">
+				<div class="col-lg-12">
+					<ul class="timeline">
+						<li>
+							<div class="timeline-image">
+								<h4>
+									Jun 2015 <br> - <br> Jun 2016
+								</h4>
+							</div>
+							<div class="timeline-panel">
+								<div class="timeline-heading">
+									<h4>Tata Consultancy Services Ltd.</h4>
+									<h4 class="subheading">Application Architect</h4>
+								</div>
+								<div class="timeline-body">
+									<p>Promoted to Application Architect in June 2015 
+									Designed and implemented web services, relational database table structure,
+										stored procedures, and functions. 
+									<br>Constructed robust Businiess
+										Intelligence packages to Extract, Transform and Load data into
+										database tables from source files: 1 to 1.5 GB in size..</p>
+								</div>
+							</div>
+						</li>
+						<li class="timeline-inverted">
+							<div class="timeline-image">
+								<h4>
+									Nov 2011 <br> - <br> Jan 2013
+								</h4>
+							</div>
+							<div class="timeline-panel">
+								<div class="timeline-heading">
+									<h4>Creative Agency</h4>
+									<h4 class="subheading">Front-end Developer</h4>
+								</div>
+								<div class="timeline-body">
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+										Duis sed dapibus leo nec ornare diamcommodo nibh ante
+										facilisis.</p>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="timeline-image">
+								<h4>
+									Dec 2009 <br> - <br> May 2011
+								</h4>
+							</div>
+							<div class="timeline-panel">
+								<div class="timeline-heading">
+									<h4>Creative Agency</h4>
+									<h4 class="subheading">UX Designer</h4>
+								</div>
+								<div class="timeline-body">
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+										Duis sed dapibus leo nec ornare diamcommodo nibh ante
+										facilisis.</p>
+								</div>
+							</div>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<script type="text/javascript" src="js/jquery.1.11.1.js"></script>
+	<script type="text/javascript" src="js/bootstrap.js"></script>
+	<script type="text/javascript" src="js/SmoothScroll.js"></script>
+	<script type="text/javascript" src="js/jquery.isotope.js"></script>
+	<script type="text/javascript" src="js/waypoints.js"></script>
+	<script type="text/javascript" src="js/jqBootstrapValidation.js"></script>
+	<script type="text/javascript" src="js/main.js"></script>
+</body>
+</html>

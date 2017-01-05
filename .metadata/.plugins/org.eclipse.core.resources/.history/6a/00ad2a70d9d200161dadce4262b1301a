@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+	<div class='container-fluid'>
+		<ul class='htimeline'>
+			<li data-date='03/10/2016' class='step col-sm-3 orange'>
+				<div>Inserted</div>
+				<div class='tasks container-fluid'>
+					<div class='resource' data-name='John Doe'>
+						<div class='task col-sm-6'>Necessity</div>
+						<div class='task col-sm-6'>Approval</div>
+					</div>
+					<div class='resource' data-name='Finances'>
+						<div class='task col-sm-3 col-sm-offset-6'>credit</div>
+					</div>
+				</div>
+			</li>
+			<li data-date='08/10/2016' class='step col-sm-2 green'>
+				<div>Published</div>
+				<div class='tasks container-fluid'>
+					<div class='resource'>
+						<div class='task col-sm-12'>Receipt of tenders</div>
+					</div>
+				</div>
+			</li>
+			<li data-date='20/10/2016' class='step col-sm-1 red'>
+				<div>Deadline</div>
+			</li>
+			<li data-date='9/11/2016' class='step col-sm-3 blue'>
+				<div>Evaluation</div>
+				<div class='tasks container-fluid'>
+					<div class='resource' data-name='Meetings'>
+						<div class='task col-sm-4'>Administrative</div>
+						<div class='task col-sm-4'>Technical</div>
+						<div class='task col-sm-4'>Economic</div>
+					</div>
+					<div class='resource' data-name='Rectifications'>
+						<div class='task col-sm-2 col-sm-offset-2'>Retrieval</div>
+						<div class='task col-sm-2 col-sm-offset-2'>Clarification</div>
+						<div class='task col-sm-2 col-sm-offset-2'>Clarification</div>
+					</div>
+					<div class='resource' data-name='Notifications'>
+						<div class='task col-sm-1 col-sm-offset-2'></div>
+						<div class='task col-sm-1 col-sm-offset-3'></div>
+						<div class='task col-sm-1 col-sm-offset-3'></div>
+					</div>
+				</div>
+			</li>
+			<li data-date='20/1/2017' class='step col-sm-1 green'>
+				<div>Decision</div>
+				<div class='tasks container-fluid'>
+					<div class='resource' data-name='Meetings'>
+						<div class='task col-sm-6'></div>
+					</div>
+					<div class='resource' data-name='Notifications'>
+						<div class='task col-sm-1 col-sm-offset-6'></div>
+					</div>
+					<div class='resource' data-name='complaints'>
+						<div class='task col-sm-5 col-sm-offset-7'></div>
+					</div>
+				</div>
+			</li>
+			<li data-date='25/1/2017' class='step col-sm-1 green'>
+				<div>Award</div>
+				<div class='tasks container-fluid'>
+					<div class='resource' data-name='Meetings'>
+						<div class='task col-sm-6'></div>
+					</div>
+					<div class='resource' data-name='Notifications'>
+						<div class='task col-sm-1 col-sm-offset-6'></div>
+					</div>
+					<div class='resource' data-name='complaints'>
+						<div class='task col-sm-5 col-sm-offset-7'></div>
+					</div>
+				</div>
+			</li>
+			<li data-date='5/2/2017' class='step col-sm-1 green'>
+				<div>Contract sign</div>
+			</li>
+		</ul>
+	</div>
+</body>
+</html>
